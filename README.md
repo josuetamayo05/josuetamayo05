@@ -1,16 +1,19 @@
-## Hi there 👋
+# Josué Alejandro Tamayo
 
-<!--
-**josuetamayo05/josuetamayo05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer (React + TypeScript). Estudiante de Ciencias de la Computación (2.º año).
+Me enfoco en SPAs con arquitectura modular, validación de formularios y UI responsive.
+Busco oportunidades como Frontend React Junior / Full Stack Junior en crecimiento.
 
-Here are some ideas to get you started:
+## Stack
+- React, TypeScript, React Router
+- Tailwind CSS, Zustand
+- React Hook Form, Zod
+- Vite, ESLint, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+- Plantilla E-commerce White-label (React + TS): https://github.com/josuetamayo05/Shop-Web
+- Planificador inteligente (Python + Kivy): [link cuando lo publiques]
+
+## Contacto
+- Email: j70648423@gmail.com
+- LinkedIn: [tu link]
