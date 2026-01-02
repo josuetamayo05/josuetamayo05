@@ -16,4 +16,4 @@ Busco oportunidades como Frontend React Junior / Full Stack Junior en crecimient
 
 ## Contacto
 - Email: j70648423@gmail.com
-- LinkedIn: [tu link]
+- LinkedIn: 
