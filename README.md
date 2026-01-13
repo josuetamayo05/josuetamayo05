@@ -10,10 +10,5 @@ Busco oportunidades como Frontend React Junior / Full Stack Junior en crecimient
 - React Hook Form, Zod
 - Vite, ESLint, Git
 
-## Proyectos destacados
-- Plantilla E-commerce White-label (React + TS): https://github.com/josuetamayo05/Shop-Web
-- Planificador inteligente (Python + Kivy): [link cuando lo publiques]
 
-## Contacto
-- Email: j70648423@gmail.com
-- LinkedIn: 
+
