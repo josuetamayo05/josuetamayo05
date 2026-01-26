@@ -10,9 +10,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-JA_CubanCode-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jacubancode.com)
-[![Instagram](https://img.shields.io/badge/@jacubancode-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jacubancode)
-[![Facebook](https://img.shields.io/badge/JA_CubanCode-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1GbdQ6hftM/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-JA_CubanCode-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://josuetamayo05.github.io/ja-cubancode/)
+[![Instagram](https://img.shields.io/badge/@jacubancode-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josuetamayo05)
+[![Facebook](https://img.shields.io/badge/JA_CubanCode-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17tdyg8D5X/?mibextid=wwXIfr)
 [![WhatsApp](https://img.shields.io/badge/+53_50121476-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5350121476)
 
 </div>
