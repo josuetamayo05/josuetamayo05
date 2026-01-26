@@ -21,28 +21,38 @@
 
 ## 🧑‍💻 Sobre Mí
 
-```javascript
-const josue = {
-    ubicacion: "Cuba 🇨🇺",
-    rol: "Desarrollador de Software",
-    estudios: "Ciencias de la Computación",
-    
-    especialidades: [
-        "Frontend Development (React + TypeScript)",
-        "Aplicaciones de Escritorio (Python + Flet)",
-        "Sitios Web Modernos (HTML/CSS/JS)"
-    ],
-    
-    enfoque: [
-        "SPAs con arquitectura modular",
-        "UI/UX responsive y atractivo",
-        "Validación de formularios robusta",
-        "Código limpio y mantenible"
-    ],
-    
-    objetivo: "Frontend React Junior / Full Stack Junior"
-};
-```
+<table>
+<tr>
+<td width="50%">
+
+### 👤 Perfil
+
+| | |
+|---|---|
+| 📍 **Ubicación** | Cuba 🇨🇺 |
+| 💼 **Rol** | Desarrollador de Software |
+| 🎓 **Estudios** | Ciencias de la Computación |
+| 🎯 **Objetivo** | Frontend React Junior / Full Stack Junior |
+
+</td>
+<td width="50%">
+
+### 🚀 Especialidades
+
+- ⚛️ Frontend Development (React + TypeScript)
+- 🖥️ Aplicaciones de Escritorio (Python + Flet)
+- 🌐 Sitios Web Modernos (HTML/CSS/JS)
+
+### 💡 Enfoque
+
+- 📦 SPAs con arquitectura modular
+- 🎨 UI/UX responsive y atractivo
+- ✅ Validación de formularios robusta
+- 🧹 Código limpio y mantenible
+
+</td>
+</tr>
+</table>
 
 ---
 
