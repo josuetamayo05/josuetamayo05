@@ -40,7 +40,7 @@
 ### 🚀 Especialidades
 
 - ⚛️ Frontend Development (React + TypeScript)
-- 🖥️ Aplicaciones de Escritorio (Python + Flet)
+- 🖥️ Aplicaciones d Escritorio (Python + Flet)
 - 🌐 Sitios Web Modernos (HTML/CSS/JS)
 
 ### 💡 Enfoque
