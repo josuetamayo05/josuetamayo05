@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=500&lines=Frontend+Developer+(React+%2B+TypeScript);Aplicaciones+de+Escritorio+con+Python+%2B+Flet;Sitios+Web+Modernos+y+Responsivos;Estudiante+de+Ciencias+de+la+Computaci%C3%B3n)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=500&lines=Frontend+Developer+(React+%2B+TypeScript);Aplicaciones+d+Escritorio+con+Python+%2B+Flet;Sitios+Web+Modernos+y+Responsivos;Estudiante+de+Ciencias+de+la+Computaci%C3%B3n)](https://git.io/typing-svg)
 
 <br/>
 
@@ -40,7 +40,7 @@
 ### 🚀 Especialidades
 
 - ⚛️ Frontend Development (React + TypeScript)
-- 🖥️ Aplicaciones d Escritorio (Python + Flet)
+- 🖥️ Aplicaciones de Escritorio (Python + Flet)
 - 🌐 Sitios Web Modernos (HTML/CSS/JS)
 
 ### 💡 Enfoque
