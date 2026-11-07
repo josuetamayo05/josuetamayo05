@@ -4,11 +4,6 @@
 
 ### Desarrollador de Software | Cuba 🇨🇺
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=500&lines=Frontend+Developer+(React+%2B+TypeScript);Aplicaciones+Escritorio+con+Python+%2B+Flet;Sitios+Web+Modernos+y+Responsivos;Estudiante+de+Ciencias+de+la+Computaci%C3%B3n)](https://git.io/typing-svg)
-
-<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-JA_CubanCode-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://josuetamayo05.github.io/ja-cubancode/)
 [![Instagram](https://img.shields.io/badge/@josuetamayo05-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josuetamayo05)
@@ -103,17 +98,7 @@
 
 ---
 
-## 🚀 Proyectos Destacados
 
-<div align="center">
-
-| Proyecto | Descripción | Tech |
-|----------|-------------|------|
-| 🏥 **HospitalPlannerFlet** | Planificador de eventos hospitalarios con validación de conflictos en tiempo real | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flet](https://img.shields.io/badge/-Flet-0B5FFF?style=flat-square) |
-| 🛒 **Tiendas Online** | Catálogos profesionales con pedidos por WhatsApp | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| 🌐 **Landing Pages** | Páginas de presentación modernas y responsivas | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-
-</div>
 
 ---
 
@@ -149,11 +134,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=josuetamayo05&color=8B5CF6&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
-</div>
-
----
-
-<div align="center">
 
 ### ⭐ Si te gusta mi trabajo, ¡dale una estrella a mis repos!
 
